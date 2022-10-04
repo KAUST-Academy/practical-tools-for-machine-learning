@@ -1,12 +1,50 @@
-# pytorch-gpu-data-science-project
+# Practical Tools for Machine Learning
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [PyTorch](https://pytorch.org/) ecosystem. 
+There is strong demand for machine learning (ML) skills and expertise to solve challenging business problems both globally and locally in KSA. This course will help learners build capacity in core ML tools and methods and enable them to develop their own machine learning applications. This course covers the basic theory behind ML algorithms but the majority of the focus is on hands-on examples using [Scikit Learn](https://scikit-learn.org/stable/index.html) and [PyTorch](https://pytorch.org/).
 
-## Creating a new project from this template
+## Learning Objectives
 
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+The primary learning objective of this course is to provide students with practical, hands-on experience with state-of-the-art machine learning and deep learning tools that are widely used in industry.
 
-## Project organization
+The first part of this course covers chapters 1-10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The following topics will be discussed.
+
+* The Machine Learning Landscape 
+* End-to-End Machine Learning Projects 
+* Classification 
+* Training Models 
+* Support Vector Machines (SVMs) 
+* Decision Trees 
+* Ensemble Methods and Random Forests 
+* Dimensionality Reduction 
+* Unsupervised Learning Techniques 
+* Introduction to Artificial Neural Networks 
+
+## Lessons
+
+### Day 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
+
+* The morning session will focus on the theory behind linear models for solving basic classification and regression problems by covering chapters 1-4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
+* The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment on the Kaggle data science competition platform.
+
+### Day 2: [Introduction to Machine Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=z2VLrt)
+
+* Consolidation of previous days content via Q/A and live coding demonstrations.  
+* The morning session will focus on the theory behind non-linear models for solving basic classification and regression problems by covering chapters 5-7 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
+* The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment on the Kaggle data science competition platform.
+
+### Day 3: [Introduction to Machine Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeueWHxeVMxKjkth_Qk9f0UBfJhcRRqVMxyXXKJkxC53oA?e=wHk5xD)
+
+* Consolidation of previous days content via Q/A and live coding demonstrations.  
+* The morning session will focus on the theory behind dimensionality reduction and unsupervised learning techniques as well as introducing the theory behind neural networks by covering chapters 8-10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
+* The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment using the Kaggle data science competition platform.
+
+### Day 4: Introduction to Machine Learning, Part IV
+
+* Consolidation of previous days content via Q/A and live coding demonstrations.  
+* The morning session will focus on applying the techniques learned over the previous days using Scikit-Learn.
+* The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
+
+## Organization
 
 Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 
