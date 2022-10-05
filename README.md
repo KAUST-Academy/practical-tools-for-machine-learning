@@ -23,6 +23,10 @@ The first part of this course covers chapters 1-10 of [Hands-on Machine Learning
 
 ### Day 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/practical-tools-for-machine-learning/october-2022?labpath=notebooks%2Fintroduction-to-sklearn-part-1.ipynb)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-1.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-1.ipynb)
+
 * The morning session will focus on the theory behind linear models for solving basic classification and regression problems by covering chapters 1-4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment on the Kaggle data science competition platform.
 
