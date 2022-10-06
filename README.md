@@ -23,7 +23,6 @@ The first part of this course covers chapters 1-10 of [Hands-on Machine Learning
 
 ### Day 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/practical-tools-for-machine-learning/october-2022?labpath=notebooks%2Fintroduction-to-sklearn-part-1.ipynb)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-1.ipynb)
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-1.ipynb)
 
