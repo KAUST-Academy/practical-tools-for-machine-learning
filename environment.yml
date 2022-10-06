@@ -30,9 +30,9 @@ dependencies:
   - pip:
     - -r requirements.txt
   - pyarrow
-  - python
+  - python=3.10
   - python-language-server
-  - pytorch
+  - pytorch=1.12
   - pytorch-lightning
   - pyviz_comms
   - scikit-learn
