@@ -1,14 +1,12 @@
-name: pytorch-env
+name: scikit-learn-env
 
 channels:
-  - pytorch
   - conda-forge
   - defaults
 
 dependencies:
   - bokeh
-  - captum
-  - cudatoolkit=11.6
+  - dask
   - datashader
   - gh
   - git
@@ -19,7 +17,6 @@ dependencies:
   - jupyterlab-git
   - jupyterlab-nvdashboard
   - jupyterlab-lsp
-  - kornia
   - matplotlib
   - numba
   - numpy
@@ -32,15 +29,8 @@ dependencies:
   - pyarrow
   - python=3.10
   - python-language-server
-  - pytorch=1.12
-  - pytorch-lightning
   - pyviz_comms
   - scikit-learn
   - scipy
-  - tensorboard
-  - torchaudio
-  - torchmetrics
-  - torchtext
-  - torchvision
   - wandb
   - xeus-python
