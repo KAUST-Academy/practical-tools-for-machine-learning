@@ -50,6 +50,10 @@ The first part of this course covers chapters 1-10 of [Hands-on Machine Learning
 * The morning session will focus on applying the techniques learned over the previous days using Scikit-Learn.
 * The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
 
+## Assessment
+
+Student performance on the course will be assessed through participation in a Kaggle classroom competition. Details of the competition can be found on the competition [website](https://www.kaggle.com/t/809d0792ba2e43ef85099848606106ec).
+
 ## Organization
 
 Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
