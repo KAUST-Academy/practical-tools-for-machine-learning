@@ -40,6 +40,9 @@ The first part of this course covers chapters 1-10 of [Hands-on Machine Learning
 
 ### Day 3: [Introduction to Machine Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeueWHxeVMxKjkth_Qk9f0UBfJhcRRqVMxyXXKJkxC53oA?e=wHk5xD)
 
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-3.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/practical-tools-for-machine-learning/blob/october-2022/notebooks/introduction-to-sklearn-part-3.ipynb)
+
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on the theory behind dimensionality reduction and unsupervised learning techniques as well as introducing the theory behind neural networks by covering chapters 8-10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment using the Kaggle data science competition platform.
